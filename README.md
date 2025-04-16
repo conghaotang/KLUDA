@@ -13,8 +13,8 @@ some useful function to output data and handle data.
 ## main.cpp
 the main function file. Just change array N[] and some const varibe in config.h to change config. 
 
-# python file
+## python file
 only change the data path file to draw figure.
 
-# Notification
+## Notification
 c++ :Eigen is needed.
